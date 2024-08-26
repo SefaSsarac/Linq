@@ -1,0 +1,14 @@
+D:\Yazılım\Repository\Linq\Linq\bin\Debug\net8.0\Linq.exe
+D:\Yazılım\Repository\Linq\Linq\bin\Debug\net8.0\Linq.deps.json
+D:\Yazılım\Repository\Linq\Linq\bin\Debug\net8.0\Linq.runtimeconfig.json
+D:\Yazılım\Repository\Linq\Linq\bin\Debug\net8.0\Linq.dll
+D:\Yazılım\Repository\Linq\Linq\bin\Debug\net8.0\Linq.pdb
+D:\Yazılım\Repository\Linq\Linq\obj\Debug\net8.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\Repository\Linq\Linq\obj\Debug\net8.0\Linq.AssemblyInfoInputs.cache
+D:\Yazılım\Repository\Linq\Linq\obj\Debug\net8.0\Linq.AssemblyInfo.cs
+D:\Yazılım\Repository\Linq\Linq\obj\Debug\net8.0\Linq.csproj.CoreCompileInputs.cache
+D:\Yazılım\Repository\Linq\Linq\obj\Debug\net8.0\Linq.dll
+D:\Yazılım\Repository\Linq\Linq\obj\Debug\net8.0\refint\Linq.dll
+D:\Yazılım\Repository\Linq\Linq\obj\Debug\net8.0\Linq.pdb
+D:\Yazılım\Repository\Linq\Linq\obj\Debug\net8.0\Linq.genruntimeconfig.cache
+D:\Yazılım\Repository\Linq\Linq\obj\Debug\net8.0\ref\Linq.dll
